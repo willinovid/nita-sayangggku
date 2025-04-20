@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Semangat Untuk Kamu</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Hai Kamu!</h1>
+    <img src="https://i.imgur.com/2yaf2wb.png" alt="Cute Image">
+    <p id="quote">Kamu luar biasa, jangan lupa itu!</p>
+    <button onclick="newQuote()">Butuh Semangat Lagi</button>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
